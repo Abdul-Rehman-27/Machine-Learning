@@ -1,0 +1,11 @@
+Student,Study Hours,Attendance,Assignments,Result
+1,Low,Poor,No,Fail
+2,Low,Good,No,Fail
+3,High,Poor,Yes,Pass
+4,High,Good,Yes,Pass
+5,Low,Poor,No,Fail
+6,High,Good,Yes,Pass
+7,High,Poor,Yes,Pass
+8,Low,Good,No,Fail
+9,High,Good,Yes,Pass
+10,Low,Poor,No,Fail

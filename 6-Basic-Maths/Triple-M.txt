@@ -1,0 +1,52 @@
+================================
+60 70 80 85 90 100
+Marks of 7 Students
+
+overall average? ---> mean
+middle student score?   ---->median
+most repeated score?    ---->mod
+
+mean = (x1 + x2 + x3 + .... + xn)/n
+mean = middle value (if odd count), (If even) average of middle 2
+mode = most repeated value
+
+----------
+q1 = score = 10,20,30
+
+Mean:- 
+add = 10 + 20 + 30 = 60
+count = 3
+mean = 60/3 = 20
+
+Median:-
+median = 20
+
+Mod:-
+mod = all unique value, so no mod
+
+----------
+actual value y_true = what really happened
+predicted value y_pred = what our model will thinks happen
+
+----------
+Outliers:
+data = [20,27,30,35,40,3000]
+3000 outlier
+
+================================
+Pecentage and Ratios:
+60 runs, 100 balls
+60:100
+60% Strike Rate
+
+%Ratios
+
+Accruacy 
+Precision
+Recall
+
+Percentage - out of 100 - how much happened
+ratio - comparsion
+
+P = (part/whole) * 100
+R = part/whole

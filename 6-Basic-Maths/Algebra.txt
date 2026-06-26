@@ -1,0 +1,19 @@
+500 daily income per day 
+1000 joining bonus (fixed for everyone)
+
+0 - 1000
+1 - 1500
+2 - 2000
+3 - 2500
+
+y = mx + c
+y = final salary predicted, output/result
+x = days worked , input
+m = 500/day , rate of change
+b = bonus, starting point x = 0
+
+y = 500 * x + 1000
+
+Suppose someone works  4 days
+y = 500 * 4 + 1000
+y = 3000

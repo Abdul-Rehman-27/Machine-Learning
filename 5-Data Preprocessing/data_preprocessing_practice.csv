@@ -1,0 +1,11 @@
+Name,Gender,Age,City,Income,Passed
+Ahmed,Male,25.0,Karachi,50000.0,Yes
+Fatima,Female,30.0,Lahore,60000.0,No
+Ali,Male,22.0,Islamabad,45000.0,Yes
+Ayesha,Female,,Karachi,52000.0,Yes
+Usman,,35.0,Lahore,,No
+Zara,Female,28.0,Peshawar,48000.0,Yes
+Bilal,Male,32.0,Quetta,47000.0,Yes
+Hira,Female,24.0,Islamabad,51000.0,No
+Kashif,Male,29.0,Lahore,53000.0,Yes
+Sana,Female,,Karachi,50000.0,No
